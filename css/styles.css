@@ -1,0 +1,21 @@
+
+body {
+    background-color: rgb(190, 215, 217);
+}
+
+hr {
+    border-width: 6px;
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 4%;
+}
+
+h1, h3 {
+          color: #159895 ;
+}
+.detail {
+color: blueviolet;
+
+}
